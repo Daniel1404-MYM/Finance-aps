@@ -1,7 +1,7 @@
-streamlit
-pandas
+streamlit==1.33.0
+pandas>=1.5
 yfinance
 numpy
 plotly
-groq
+groq>=0.2.0
 python-dotenv
